@@ -10,7 +10,7 @@ The backend is deployed on **Render**, and the frontend on **Netlify**.
 ## 🌐 Live Demo
 
 - Backend: https://contactapp-3zax.onrender.com
-- Frontend: [Netlify URL here]
+- Frontend: https://cotact-app.netlify.app
 
 ---
 
