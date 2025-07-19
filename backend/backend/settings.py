@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-e-i^*im5q+hx6@3)2wlk-_vvp(_1&@q-kf3z+x)=5s08-pd$b+
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['https://contactapp-3zax.onrender.com']
 
 
 # Application definition
